@@ -31,11 +31,11 @@
 
 ---
 
-# 4 Axis Printung
+# 4 Axis Printing
 
 https://www.cnckitchen.com/blog/the-rotbot-4-axis-non-planar-3d-printing
 
-![4 Axis Printung](https://images.squarespace-cdn.com/content/v1/5d88f1f13db677155dee50fa/654b8e48-f247-47af-b04d-6732e0f824a5/P1388253.JPG?format=1500w)
+![4 Axis Printing](https://images.squarespace-cdn.com/content/v1/5d88f1f13db677155dee50fa/654b8e48-f247-47af-b04d-6732e0f824a5/P1388253.JPG?format=1500w)
 
 ---
 
